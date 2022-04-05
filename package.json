@@ -1,0 +1,25 @@
+{
+  "name": "fuwa-web",
+  "version": "1.0.0",
+  "description": "![crycats](./assets/crycats.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigiCrab/Fuwa-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigiCrab/Fuwa-web/issues"
+  },
+  "homepage": "https://github.com/bigiCrab/Fuwa-web#readme",
+  "dependencies": {
+    "next": "^12.1.4",
+    "react-dom": "^18.0.0",
+    "react": "^18.0.0"
+  },
+  "devDependencies": {}
+}
